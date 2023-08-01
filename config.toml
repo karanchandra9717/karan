@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site  "
+title = "My New Hugo site using scartch"
 theme = "beautifulhugo"
 
 
@@ -34,3 +34,4 @@ theme = "beautifulhugo"
    name = "contact"
    url = "contact"
    weight = 4
+
