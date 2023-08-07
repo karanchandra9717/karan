@@ -1,7 +1,7 @@
 body {
   font-family: "Lora", "Times New Roman", serif;
   font-size: 18px;
-  color: coral;
+  color: orange;
   position: relative;
   /* background: blueviolet; */
   display: flex;
@@ -11,7 +11,7 @@ body {
 @media (prefers-color-scheme: dark) {
   body {
     background: whitesmoke;
-    color: darkcyan;
+    color: orchid;
   }
 }
 .container[role="main"] {
@@ -39,7 +39,7 @@ p a {
 }
 @media (prefers-color-scheme: dark) {
   p a {
-    color: orange;
+    color: brown;
   }
 }
 
@@ -420,7 +420,7 @@ footer div.disclaimer {
 
 .post-preview {
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 2px solid black;
 }
 @media only screen and (min-width: 768px) {
   .post-preview {

@@ -23,15 +23,15 @@ theme = "beautifulhugo"
     parent = "samples"
     name = "Big Image Sample"
     url = "post/2017-03-07-bigimg-sample"
-    weight = 1
+    weight = 0
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
    name = "contact"
    url = "contact"
-   weight = 4
+   weight = 3
 
