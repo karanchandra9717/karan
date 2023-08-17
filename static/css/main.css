@@ -1,7 +1,7 @@
 body {
   font-family: "Lora", "Times New Roman", serif;
   font-size: 18px;
-  color: orange;
+  color: darkorchid;
   position: relative;
   /* background: blueviolet; */
   display: flex;
@@ -515,7 +515,7 @@ footer div.disclaimer {
 
 .blog-tags {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #999;
+  color: rebeccapurple;
   font-size: 15px;
   margin-bottom: 30px;
 }
@@ -525,7 +525,7 @@ footer div.disclaimer {
 }
 
 .blog-tags a {
-  color: #008aff;
+  color: #354049;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -602,8 +602,8 @@ footer div.disclaimer {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 100px 0;
-  color: #fff;
-  text-shadow: 1px 1px 3px #000;
+  color: black;
+  text-shadow: 1px 1px 3px orange;
 }
 .intro-header .page-heading h1,
 .intro-header .tags-heading h1,

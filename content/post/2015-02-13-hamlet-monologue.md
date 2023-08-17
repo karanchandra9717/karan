@@ -39,3 +39,21 @@ With this regard their currents turn awry
 And lose the name of action. -- Soft you now,
 The fair Ophelia! -- Nymph, in thy orisons
 Be all my sins remembered.
+
+### this is the new heading
+
+Thus conscience does make cowards of us all,
+And thus the native hue of resolution
+Is sicklied o'er with the pale cast of thought,
+And enterprise of great pitch and moment
+With this regard their currents turn awry
+And lose the name of action. -- Soft you now,
+The fair Ophelia! -- Nymph, in thy orisons
+Be all my sins remembered.
+
+### first time things gonna be done now !
+
+And lose the name of action. -- Soft you now,
+The fair Ophelia! -- Nymph, in thy orisons
+Be all my sins remembered. find differnt ways to taccle them for the new beginning.
+changes in the file and static file as well to connect the file to put this up

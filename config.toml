@@ -1,11 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo site using scartch"
+title = "ROBERTCARPENTRY custom woodwork"
 theme = "beautifulhugo"
 
 
 [[menu.main]]
-    name = "Blog"
+    name = "Home"
     url = ""
     weight = 1
 
@@ -15,20 +15,17 @@ theme = "beautifulhugo"
     weight = 3
 
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    name = "services"
+    url = ""
     weight = 2
 
 [[menu.main]]
     parent = "samples"
-    name = "Big Image Sample"
+    name = "Big Image Sample price"
     url = "post/2017-03-07-bigimg-sample"
     weight = 0
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 4
+
 
 [[menu.main]]
    name = "contact"
